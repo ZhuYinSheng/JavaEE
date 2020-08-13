@@ -334,7 +334,7 @@ SELECT deptno FROM emp GROUP BY deptno ORDER BY AVG(sal) DESC LIMIT 1;
 SELECT dname FROM (SELECT deptno FROM emp GROUP BY deptno ORDER BY AVG(sal) DESC LIMIT 1) a INNER JOIN dept d ON a.deptno = d.deptno;
 
 -- 取得比普通员工的最高薪水还要高的领导人姓名
-SELECT 
+SELECT * from
 
 -- 取得每个薪水等级有多少员工
 
