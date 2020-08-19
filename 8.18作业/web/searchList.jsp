@@ -1,4 +1,4 @@
-<%@ page import="club.banyuan.pojo.Product" %>
+<%@ page import="club.Product" %>
 <%@ page import="java.util.List" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -559,7 +559,7 @@
                         <div class="name"><a href="#"><%=product.getName()%></a></div>
                         <div class="carbg">
                         	<a href="#" class="ss">收藏</a>
-                            <a href="#" class="j_car">加入购物车</a>
+                            <a href="addCart.do?id=<%=product.getId()%>" class="j_car">加入购物车</a>
                         </div>
                     </li>
                     <%

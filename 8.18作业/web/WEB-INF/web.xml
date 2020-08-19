@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>XmlProfileServlet</servlet-name>
-        <servlet-class>club.banyuan.servlet.XmlProfileServlet</servlet-class>
+        <servlet-class>club.XmlProfileServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>XmlProfileServlet</servlet-name>

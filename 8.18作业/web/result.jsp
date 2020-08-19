@@ -1,4 +1,4 @@
-<%@ page import="club.banyuan.pojo.Product" %>
+<%@ page import="club.Product" %>
 <%@ page import="java.util.List" %><%--
   Created by IntelliJ IDEA.
   User: edz
