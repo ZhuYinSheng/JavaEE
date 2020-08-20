@@ -19,7 +19,7 @@ public class LoginServlet extends HttpServlet {
     String username = request.getParameter("username");
     String password = request.getParameter("password");
     HttpSession session = request.getSession();
-//    String url = "login.jsp";
+    String url = "login.jsp";
     UserService userService = new UserServiceImpl();
     try {
       User user = userService.login(username, password);
