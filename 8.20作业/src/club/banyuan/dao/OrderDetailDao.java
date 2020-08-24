@@ -5,7 +5,7 @@ import java.util.List;
 
 public interface OrderDetailDao {
 
-  OrderDetail addOrder_detail(OrderDetail orderDetail);
+  OrderDetail addOrderDetail(OrderDetail orderDetail);
   List<OrderDetail> getOrderDetailByOrderId(int orderId);
 
 }
