@@ -5,8 +5,8 @@ import club.banyuan.dao.UserDao;
 import club.banyuan.dao.impl.ProductDaoImpl;
 import club.banyuan.dao.impl.UserDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.Product;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.Product;
+import club.banyuan.entity.User;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.InvocationTargetException;

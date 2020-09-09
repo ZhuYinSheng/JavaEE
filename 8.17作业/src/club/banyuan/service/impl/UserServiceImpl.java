@@ -1,9 +1,9 @@
 package club.banyuan.service.impl;
 
 import club.banyuan.dao.UserDao;
-import club.banyuan.dao.impl.UserDaoImpl;
+import club.banyuan.dao.UserDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.User;
 import club.banyuan.service.UserService;
 import java.sql.Connection;
 import java.sql.SQLException;

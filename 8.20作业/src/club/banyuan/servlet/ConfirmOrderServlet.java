@@ -1,9 +1,9 @@
 package club.banyuan.servlet;
 
-import club.banyuan.pojo.Order;
-import club.banyuan.pojo.OrderDetail;
-import club.banyuan.pojo.Product;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.Order;
+import club.banyuan.entity.OrderDetail;
+import club.banyuan.entity.Product;
+import club.banyuan.entity.User;
 import club.banyuan.service.OrderService;
 import club.banyuan.service.impl.OrderServiceImpl;
 

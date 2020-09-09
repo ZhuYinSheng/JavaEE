@@ -5,8 +5,8 @@ import club.banyuan.dao.OrderDetailDao;
 import club.banyuan.dao.impl.OrderDaoImpl;
 import club.banyuan.dao.impl.OrderDetailDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.Order;
-import club.banyuan.pojo.OrderDetail;
+import club.banyuan.entity.Order;
+import club.banyuan.entity.OrderDetail;
 import club.banyuan.service.OrderService;
 
 import java.sql.Connection;

@@ -1,7 +1,7 @@
 package club.banyuan.dao.impl;
 
 import club.banyuan.dao.UserDao;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.User;
 import java.sql.Connection;
 import java.sql.ResultSet;
 

@@ -1,4 +1,4 @@
-package club.banyuan.pojo;
+package club.banyuan.entity;
 
 public class Order_detail {
 

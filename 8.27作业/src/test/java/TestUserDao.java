@@ -1,4 +1,4 @@
-import club.banyuan.pojo.User;
+import club.banyuan.entity.User;
 import club.banyuan.dao.UserDao;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;

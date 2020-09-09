@@ -1,6 +1,6 @@
 package club.banyuan.service;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 
 import java.sql.SQLException;
 import java.util.List;

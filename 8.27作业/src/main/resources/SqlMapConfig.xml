@@ -4,7 +4,7 @@
 <configuration>
 <!--    让mapper文件中的type属性只写类名，不用写包名-->
     <typeAliases>
-        <package name="club.banyuan.pojo"/>
+        <package name="club.banyuan.entity"/>
         <package name="club.banyuan.vo"/>
     </typeAliases>
     

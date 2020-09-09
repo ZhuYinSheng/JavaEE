@@ -1,4 +1,4 @@
-package club.banyuan.pojo;
+package club.banyuan.entity;
 
 import java.util.Date;
 

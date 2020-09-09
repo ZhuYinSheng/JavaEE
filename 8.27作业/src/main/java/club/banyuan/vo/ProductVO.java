@@ -1,6 +1,6 @@
 package club.banyuan.vo;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 
 public class ProductVO {
      private double lowPrice;

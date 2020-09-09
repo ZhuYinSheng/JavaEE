@@ -1,6 +1,6 @@
 package club.banyuan.dao;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 import club.banyuan.vo.PageVO;
 import club.banyuan.vo.ProductVO;
 

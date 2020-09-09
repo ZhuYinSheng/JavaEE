@@ -3,7 +3,7 @@ package club.banyuan.test;
 import club.banyuan.dao.ProductDao;
 import club.banyuan.dao.impl.ProductDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 import org.junit.jupiter.api.Test;
 
 import java.sql.Connection;

@@ -1,6 +1,6 @@
 package club.banyuan.servlet;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

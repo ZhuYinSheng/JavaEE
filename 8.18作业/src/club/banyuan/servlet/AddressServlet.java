@@ -1,6 +1,6 @@
 package club.banyuan.servlet;
 
-import club.banyuan.pojo.Address;
+import club.banyuan.entity.Address;
 import club.banyuan.service.AddressService;
 import club.banyuan.service.impl.AddressServiceImpl;
 import java.io.IOException;

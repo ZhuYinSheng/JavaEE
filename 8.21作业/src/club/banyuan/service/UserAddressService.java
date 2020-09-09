@@ -1,6 +1,6 @@
 package club.banyuan.service;
 
-import club.banyuan.pojo.UserAddress;
+import club.banyuan.entity.UserAddress;
 
 import java.sql.SQLException;
 import java.util.List;

@@ -1,6 +1,6 @@
 package club.banyuan.service;
 
-import club.banyuan.pojo.User;
+import club.banyuan.entity.User;
 import java.sql.SQLException;
 
 public interface UserService {

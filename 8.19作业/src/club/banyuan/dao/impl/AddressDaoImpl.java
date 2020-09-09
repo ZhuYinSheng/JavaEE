@@ -1,8 +1,8 @@
 package club.banyuan.dao.impl;
 
 import club.banyuan.dao.AddressDao;
-import club.banyuan.pojo.Address;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.Address;
+import club.banyuan.entity.User;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.util.ArrayList;

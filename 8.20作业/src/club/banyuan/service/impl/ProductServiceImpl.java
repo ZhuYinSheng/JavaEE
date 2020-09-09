@@ -3,7 +3,7 @@ package club.banyuan.service.impl;
 import club.banyuan.dao.ProductDao;
 import club.banyuan.dao.impl.ProductDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 import club.banyuan.service.ProductService;
 
 import java.sql.Connection;

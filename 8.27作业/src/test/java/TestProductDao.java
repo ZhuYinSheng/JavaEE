@@ -1,7 +1,7 @@
 import club.banyuan.dao.ProductDao;
 import club.banyuan.dao.ProductEntityDao;
-import club.banyuan.pojo.Product;
-import club.banyuan.pojo.ProductEntity;
+import club.banyuan.entity.Product;
+import club.banyuan.entity.ProductEntity;
 import club.banyuan.vo.PageVO;
 import club.banyuan.vo.ProductVO;
 import org.apache.ibatis.io.Resources;

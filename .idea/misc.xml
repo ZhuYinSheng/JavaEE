@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/HrmsMVC" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/8.27作业/pom.xml" />
+        <option value="$PROJECT_DIR$/8.28作业/pom.xml" />
+        <option value="$PROJECT_DIR$/9.7作业/task2/pom.xml" />
+        <option value="$PROJECT_DIR$/9.7作业/task3/pom.xml" />
+        <option value="$PROJECT_DIR$/9.7作业/task1/pom.xml" />
       </list>
     </option>
   </component>

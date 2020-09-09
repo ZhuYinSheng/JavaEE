@@ -1,7 +1,7 @@
 package club.banyuan.dao;
 
-import club.banyuan.pojo.Order;
-import club.banyuan.pojo.User;
+import club.banyuan.entity.Order;
+import club.banyuan.entity.User;
 import java.util.List;
 
 public interface OrderDao {

@@ -3,7 +3,7 @@ package club.banyuan.service.impl;
 import club.banyuan.dao.UserAddressDao;
 import club.banyuan.dao.impl.UserAddressDaoImpl;
 import club.banyuan.dao.util.DataSourceUtil;
-import club.banyuan.pojo.UserAddress;
+import club.banyuan.entity.UserAddress;
 import club.banyuan.service.UserAddressService;
 
 import java.sql.Connection;

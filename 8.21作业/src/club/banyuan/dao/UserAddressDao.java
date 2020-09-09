@@ -1,7 +1,7 @@
 package club.banyuan.dao;
 
-import club.banyuan.pojo.User;
-import club.banyuan.pojo.UserAddress;
+import club.banyuan.entity.User;
+import club.banyuan.entity.UserAddress;
 
 import java.util.List;
 

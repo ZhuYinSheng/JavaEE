@@ -1,7 +1,7 @@
 package club.banyuan.dao.impl;
 
 import club.banyuan.dao.OrderDao;
-import club.banyuan.pojo.Order;
+import club.banyuan.entity.Order;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

@@ -1,8 +1,8 @@
 package club.banyuan.dao;
 
-import club.banyuan.pojo.Order;
-import club.banyuan.pojo.Order_detail;
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Order;
+import club.banyuan.entity.Order_detail;
+import club.banyuan.entity.Product;
 
 import java.util.List;
 import java.util.Map;

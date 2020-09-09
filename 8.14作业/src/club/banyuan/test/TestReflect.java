@@ -1,6 +1,6 @@
 package club.banyuan.test;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 import org.junit.Test;
 
 import java.lang.reflect.Field;

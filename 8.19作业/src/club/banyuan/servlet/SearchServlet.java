@@ -1,6 +1,6 @@
 package club.banyuan.servlet;
 
-import club.banyuan.pojo.Product;
+import club.banyuan.entity.Product;
 import club.banyuan.service.ProductService;
 import club.banyuan.service.impl.ProductServiceImpl;
 import java.io.IOException;

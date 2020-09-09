@@ -1,7 +1,7 @@
 package club.banyuan.service;
 
-import club.banyuan.pojo.Order;
-import club.banyuan.pojo.OrderDetail;
+import club.banyuan.entity.Order;
+import club.banyuan.entity.OrderDetail;
 
 import java.sql.SQLException;
 import java.util.List;
