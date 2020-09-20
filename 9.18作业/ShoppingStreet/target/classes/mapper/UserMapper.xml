@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="club.banyuan.user.dao.UserDao">
+  <insert id="addUser" parameterType="club.banyuan.user.entity.User">
+    insert into user values (name=#{user.name},userType={userType},pwd=#{user.pwd},pwdConfirm=#{user.pwdConfirm})
+  </insert>
+
+  <!--    <update id="updateUser">-->
+  <!--        update user set name=#{}-->
+  <!--    </update>-->
+
+  <select id="login" resultType="club.banyuan.user.entity.User">
+    select id from user where name = #{name} and pwd = #{pwd};
+  </select>
+
+  <!--    <delete id="deleteUser">-->
+
+  <!--    </delete>-->
+
+  <!--    <select id="selectUser" resultType="java.lang.Integer">-->
+
+  <!--    </select>-->
+
+  <!--    <select id="getUser" resultType="mbm.user.entity.User">-->
+
+  <!--    </select>-->
+</mapper>
